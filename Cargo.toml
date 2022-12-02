@@ -1,0 +1,6 @@
+[package]
+
+name = "advent_of_code_2022" 
+version = "0.0.1" 
+authors = ["Xander Apponi <xapponi@gmail.com>" ]
+edition = "2021"
