@@ -6,11 +6,11 @@ fn main() -> () {
 
     // Day 1
     input = get_input("1.txt");
-    println!("#####\nDay 1\n#####");
+    println!("##### Day 1 #####");
     one(input);
 
     // Day 2
-    println!("#####\nDay 2\n#####");
+    println!("##### Day 2 #####");
     input = get_input("2.txt");
     two(input);
 }
